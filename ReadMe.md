@@ -36,3 +36,4 @@
 - git init
 - git add filename
 - git . or add --all
+- commit after add
