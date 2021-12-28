@@ -110,5 +110,23 @@ selector{
 + padding
   - padding :10px(for all adjacent sides)
   - padding:
+### Task2
+- index
+- register
+- login
+### Flex-box
++ display
+  - none
+  - inline
+  - block
+  - inline-block
++ position
+  - static
+  - relative
+  - absolute
+  - fixed
+  - sticky
++ align content
++ align items
 
 
