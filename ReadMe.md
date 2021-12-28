@@ -63,5 +63,52 @@
      - legend
      - sup
      - sub
-     #### referencewebsites
-     - [Flaticon]
+#### referencewebsites
+- [Flaticon]
+#### Today task
+- audio,video,progress,canvas,meter,Datalist
+ - dropdown
+   - select
+### css
++ cascading Style sheets
+- we can make the project beautiful by css
++ types of css
+  - inline css
+  - internal css
+  - external css
++ Syntax for css
+- for internal and external css we use below syntaxes
+'''
+selector{
+  css properties
+}
+'''
+### reference links
++ websites for colour
+  - [color contrast]:https://webaim.org/resources/contrastchecker/
+  - [color codes]:https://htmlcolorcodes.com/
+  - [Flaticon]
+### selectors
++ simple selectors
+  - Universal selector
+  - By elements  name
+  - Grouping selector(,)
+  - class selector (.)
+  - Id selector (#)
++ combinators
+   + Descendants selector ( )
+   + child selector (>)
+   + Adjacent sibling selector (+)
+   + General sibling selector (+)
++ Pseudo class Selectors
++ pseudo element selector
++ attribute selector
+
+#### Box model
++ margin
++ border
++ padding
+  - padding :10px(for all adjacent sides)
+  - padding:
+
+
