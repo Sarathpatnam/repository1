@@ -128,5 +128,26 @@ selector{
   - sticky
 + align content
 + align items
+### Media Queries
+
+- we write css code to display same content         different styles
+- extra small devices (Mobiles)
+   - max-width:600px
+- small devices (Large phones)
+   - min-width:600px
+   - 768
+- Medium devices (small laptops)
+   - min-width:768
+- large devices(large laptops or desktops)
+- Extra large devices
 
 
+'''
+@media only screen(min-width:320px) and (max-width:500px){
+  css code
+}
+'''
+### task3
+- navbar with responsive
+### Bootstrap 4.6
+- https://getbootstrap.com/
