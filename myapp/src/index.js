@@ -10,14 +10,20 @@ import CorporationBank from './component/CorporationBank';
 import AndhraBank from './component/AndhraBank';
 import StateinclassComponent from './component/StateinclassComponent';
 import StateinFunctionComponent from './component/StateinFunctionComponent';
+import FormRendering from './component/FormRendering';
+import Home from './component/Home';
+import FormRenderingInFunctions from './component/FormRenderingInFunctions';
 
 
 ReactDOM.render(
   <React.StrictMode>
-    {/* <App /> */}
+    <App />
     {/* <UnionBank /> */}
-    <StateinclassComponent /> 
+    {/* <StateinclassComponent />  */}
     {/* <StateinFunctionComponent /> */}
+    {/* <FormRendering /> */}
+    {/* <Home /> */}
+    <FormRenderingInFunctions />
     
   </React.StrictMode>,
   document.getElementById('root')
